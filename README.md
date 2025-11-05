@@ -23,7 +23,6 @@ GitHub Actions | CI/CD Pipeline
 ## Project Structure
  Static-Website-CI-CD
 ├── index.html
-├── about.html
 ├── styles.css
 ├── script.js
 └── .github/workflows/deploy.yml
