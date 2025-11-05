@@ -21,3 +21,24 @@ GitHub Actions | CI/CD Pipeline
 4. Website updates live instantly  
 
 ## 📂 Project Structure
+📁 Static-Website-CI-CD
+├── index.html
+├── about.html
+├── styles.css
+├── script.js
+└── .github/workflows/deploy.yml
+
+## ✅ Features
+- Automated deployment
+- Production-ready static site
+- Clean UI
+- Realtime updates via CI/CD
+
+## 🔗 Live Website
+👉 https://k-subramanyam-01.github.io/Static-Website-CI-CD/
+
+## 👨‍💻 Author
+K.Subramanyam
+U.Senthil
+N.Neeraj
+Arnold
